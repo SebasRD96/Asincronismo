@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasRD96/Asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "sebastián ruiz díaz s.ruizdiaz96@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebasRD96/Asincronismo/issues"
+  },
+  "homepage": "https://github.com/SebasRD96/Asincronismo#readme"
+}
